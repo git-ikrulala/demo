@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = UIColor.yellow
         print("hahahah")
+        print("hahahah")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
